@@ -1,5 +1,5 @@
 # SIBPF
-The code gets steep spectral sources in a given radio image 
+The code gets steep spectral sources in a given radio image. Various options in the code will be added here soon 
 
 ## Crossmatching Subroutine ##
 
